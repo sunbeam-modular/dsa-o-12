@@ -1,0 +1,739 @@
+Type,ID,Description,KM
+BRTS,100-D,Hinjawadi - Maan Phase 3 To Ma Na Pa,26.4
+BRTS,100-U,Ma Na Pa To Hinjawadi - Maan Phase 3 ,26.4
+Non-BRTS,101-D,Kondhwa Bk To Kothrud Depot,16.2
+Non-BRTS,101-U,Kothrud Depot To Kondhwa Bk,16.2
+Non-BRTS,102-D,Lohgaon To Kothrud Depot,23.6
+Non-BRTS,102-U,Kothrud Depot To Lohgaon,23.6
+Non-BRTS,103A-D,Hinjawadi Maan Phase 3 To Katraj Via Kothrud Depot,36.6
+Non-BRTS,103A-U,Katraj To Hinjawadi Maan Phase 3 Via Kothrud Depot,36.6
+Non-BRTS,103-D,Kothrud Depot To Katraj,14.3
+Non-BRTS,103-U,Katraj To Kothrud Depot,14.3
+Non-BRTS,104-D,DSK Vishwa To Deccan Gymkhana,15.4
+Non-BRTS,104-U,Deccan Gymkhana To DSK Vishwa,15.4
+Non-BRTS,105-D,Medi Point To Deccan Gymkhana,11
+Non-BRTS,105-U,Deccan Gymkhana To Medi Point,11
+Non-BRTS,106-R,Galinde Path To Galinde Path,21.3
+Non-BRTS,107-D,Pimplegurav To Deccan Gymkhana,14.4
+Non-BRTS,107-U,Deccan Gymkhana To Pimplegurav,14.4
+Non-BRTS,108-D,Pune Station To Sutardara,12.3
+Non-BRTS,108-U,Sutardara To Pune Station,12.3
+Non-BRTS,109-R,Ma Na Pa To Ma Na Pa,21
+Non-BRTS,10-D,Keshavnagar To Swargate,15
+Non-BRTS,10-U,Swargate To Keshavnagar,15
+Non-BRTS,110-R,Ma Na Pa To Ma Na Pa,21
+Non-BRTS,111-D,Ma Na Pa To Bhekrainagar,17.3
+Non-BRTS,111-U,Bhekrainagar To Ma Na Pa,17.3
+Non-BRTS,112-D,Mandai To Kothrud Depot,8
+Non-BRTS,112-U,Kothrud Depot To Mandai,8
+Non-BRTS,113A-D,Pimplegurav To Appa Balawant Chowk,13.3
+Non-BRTS,113A-U,Appa Balawant Chowk To Pimplegurav,13.3
+Non-BRTS,113B-D,Pimplegurav To Ma Na Pa,12.6
+Non-BRTS,113B-U,Ma Na Pa To Pimplegurav,12.6
+Non-BRTS,113-D,Vasantdada Putala Sangvi To Appa Balawant Chowk,10.9
+Non-BRTS,113-U,Appa Balawant Chowk To Vasantdada Putala Sangvi,10.9
+Non-BRTS,114-D,Mhalungegaon To Ma Na Pa,12.5
+Non-BRTS,114-U,Ma Na Pa To Mhalungegaon,12.5
+BRTS,115P-D,Hinjawadi - Maan Phase 3 To Pune Station,29
+BRTS,115P-U,Pune Station To Hinjawadi - Maan Phase 3 ,29
+Non-BRTS,116-D,Khadki Bazar To Ma Na Pa,10.8
+Non-BRTS,116-U,Ma Na Pa To Khadki Bazar,10.8
+Non-BRTS,117A-D,DSK Vishwa To Swargate,12.8
+Non-BRTS,117A-U,Swargate To DSK Vishwa,12.8
+Non-BRTS,117-D,Dhayari Maruti Mandir To Swargate,12.2
+Non-BRTS,117-U,Swargate To Dhayari Maruti Mandir,12.2
+Non-BRTS,118-7-D,Venutai Chavan College To Swargate,9.4
+Non-BRTS,118-7-U,Swargate To Venutai Chavan College,9.4
+Non-BRTS,118A-D,Suncity To Swargate,6
+Non-BRTS,118A-U,Swargate To Suncity,6
+Non-BRTS,118-D,Venutai Chavan College To Swargate,9.4
+Non-BRTS,118-U,Swargate To Venutai Chavan College,9.4
+Non-BRTS,119A-D,Alandi To Vishrantwadi,11
+Non-BRTS,119A-U,Vishrantwadi To Alandi,11
+Non-BRTS,119-D,Alandi To Ma Na Pa,23.1
+Non-BRTS,119-U,Ma Na Pa To Alandi,23.1
+Non-BRTS,11-D,Pimplegurav To Marketyard,16.9
+Non-BRTS,11K-D,Kalpataru To Katraj,22.25
+Non-BRTS,11K-U,Katraj To Kalpataru,22.85
+Non-BRTS,11-U,Marketyard To Pimplegurav,16.9
+Non-BRTS,120-D,Chakan Mahalung To Ma Na Pa,40.6
+Non-BRTS,120-U,Ma Na Pa To Chakan Mahalung,40.6
+Non-BRTS,121-D,Bhosari Terminal To Ma Na Pa,17.1
+Non-BRTS,121-U,Ma Na Pa To Bhosari Terminal,17.1
+Non-BRTS,122-D,Chinchwadgaon To Ma Na Pa,18.7
+Non-BRTS,122-U,Ma Na Pa To Chinchwadgaon,18.7
+Non-BRTS,123-D,Bhakti Shakti To Ma Na Pa,20.1
+Non-BRTS,123-U,Ma Na Pa To Bhakti Shakti,20.1
+Non-BRTS,125-D,Dapodi Mantri Niketan To Bopkhel,12.7
+Non-BRTS,125-U,Bopkhel To Dapodi Mantri Niketan,12.7
+Non-BRTS,126-D,Pimplenilakh To Vishrantwadi,16.2
+Non-BRTS,126-U,Vishrantwadi To Pimplenilakh,16.2
+Non-BRTS,128-D,Bopkhel To Ma Na Pa,19.1
+Non-BRTS,128-U,Ma Na Pa To Bopkhel,19.1
+Non-BRTS,129-D,Medi Point To Pune Station,13
+Non-BRTS,129-U,Pune Station To Medi Point,13
+Non-BRTS,12-D,Bhakti Shakti To Upper Depot,30.05
+Non-BRTS,12-U,Upper Depot To Bhakti Shakti,30.05
+Non-BRTS,130-D,Shivajinagar To Yewalewadi,16.1
+Non-BRTS,130-U,Yewalewadi To Shivajinagar,16.1
+BRTS,132A-D,Vadgaonsheri To Ma Na Pa,14
+BRTS,132A-U,Ma Na Pa To Vadgaonsheri,14
+BRTS,132-D,Shubham Society Nagar Road To Ma Na Pa,11.1
+BRTS,132-U,Ma Na Pa To Shubham Society Nagar Road,11.1
+BRTS,133A-D,Vadgaon Sheri To Ma Na Pa,14.8
+BRTS,133A-U,Ma Na Pa To Vadgaon Sheri,14.8
+BRTS,133B-D,Anand Park  To Ma Na Pa,12.8
+BRTS,133B-U,Ma Na Pa To Anand Park ,12.8
+BRTS,133-D,Sainathnagar To Ma Na Pa ,14
+BRTS,133-U,Ma Na Pa To Sainath nagar,14
+Non-BRTS,134-D,Vidyanagar To Pune Station,8.7
+Non-BRTS,134-U,Pune Station To Vidyanagar,8.7
+Non-BRTS,135-D,Wadebolhai To Pune Station,25.6
+Non-BRTS,135-U,Pune Station To Wadebolhai,25.6
+Non-BRTS,136-D,Vadegaon To Pune Station,27.5
+Non-BRTS,136-U,Pune Station To Vadegaon,27.5
+Non-BRTS,139A-D,Bhakti Shakti To Bhekrainagar,30.7
+Non-BRTS,139A-U,Bhekrainagar To Bhakti Shakti,30.7
+Non-BRTS,139-D,Bhakti Shakti To Shewalwadi,31.6
+Non-BRTS,139-U,Shewalwadi To Bhakti Shakti,31.6
+Non-BRTS,13A-D,Shivajinagar To VIT College,11.9
+Non-BRTS,13A-U,Vit College To Shivajinagar,11.9
+Non-BRTS,13-D,Shivajinagar To Upper Depot,10
+Non-BRTS,13L-D,Shivajinagar To Lake Town Society,8.8
+Non-BRTS,13L-U,Lake Town Society To Shivajinagar,8.8
+Non-BRTS,13-U,Upper Depot To Shivajinagar,10
+Non-BRTS,140-D,Pune Station To Upper Depot,11.3
+Non-BRTS,140-U,Upper Depot To Pune Station,11.3
+Non-BRTS,141-D,Pune Station To Khandoba Mandir,11.9
+Non-BRTS,141-U,Khandoba Mandir To Pune Station,11.9
+Non-BRTS,142-D,Ghotawade Phata To Pune Station,31.8
+Non-BRTS,142-U,Pune Station To Ghotawade Phata,31.8
+Non-BRTS,143A-D,Pune Station To Galinde Path Via Karve Road,11.3
+Non-BRTS,143A-U,Galinde Path To Pune Station Via Karve Road,11.3
+Non-BRTS,143-D,Pune Station To Galinde Path Via Mhatre Pul,11.3
+Non-BRTS,143-U,Galinde Path To Pune Station Via Mhatre Pul,11.3
+Non-BRTS,144A-D,Pune Station To Sai Sayajinagar,13.9
+Non-BRTS,144A-U,Sai Sayajinagar To Pune Station,13.9
+BRTS,144B-D,Sainathnagar To Kumbre Park,22.7
+BRTS,144B-U,Kumbre Park To Sainathnagar,22.7
+Non-BRTS,144-D,Pune Station To Kothrud Stand,9
+Non-BRTS,144K-D,Pune Station To Gujrat Colony,9
+Non-BRTS,144K-U,Gujrat Colony To Pune Station,9
+Non-BRTS,144-U,Kothrud Stand To Pune Station,9
+Non-BRTS,145B-D,Sutarwadi Pashan To Pune Station,13
+Non-BRTS,145B-U,Pune Station To Sutarwadi Pashan,13
+Non-BRTS,145-D,NDA To Pune Station,25.75
+Non-BRTS,145-U,Pune Station To NDA,25.75
+Non-BRTS,146-D,Gokhalenager To Pune Station,8.45
+Non-BRTS,146-U,Pune Station To Gokhalenager,8.45
+Non-BRTS,147-D,Nhavi Sandas To Pune Station,41
+Non-BRTS,147-U,Pune Station To Nhavi Sandas,41
+Non-BRTS,148A-D,Bhosari To Bhekrainagar,33.7
+Non-BRTS,148A-U,Bhekrainagar To Bhosari,33.7
+Non-BRTS,148-D,Pimplegurav To Shewalwadi,24.8
+Non-BRTS,148-U,Shewalwadi To Pimplegurav,24.8
+BRTS,149A-D,Bhakti Shakti To Shewalwadi Via Bhosari,42.9
+BRTS,149A-U,Shewalwadi To Bhakti Shakti Via Bhosari,42.9
+BRTS,149-D,Pimpri To Shewalwadi,37.6
+BRTS,149-U,Shewalwadi To Pimpri,37.6
+BRTS,14-D,Kesnand Phata Wagholi To Dhayari Maruti Mandir,31.6
+BRTS,14-U,Dhayari Maruti Mandir To Kesnand Phata Wagholi,31.6
+Non-BRTS,151-D,Alandi To Pune Station,22
+Non-BRTS,151-U,Pune Station To Alandi,22
+BRTS,154-D,Vishrantwadi To Pune Station,8.5
+BRTS,154-U,Pune Station To Vishrantwadi,8.5
+Non-BRTS,155-D,Lohgaon To Pune Station,15.7
+Non-BRTS,155-U,Pune Station To Lohgaon,15.7
+Non-BRTS,158A-D,Dadachi Padal To Ma Na Pa,15.5
+Non-BRTS,158A-U,Ma Na Pa To Dadachi Padal,15.5
+Non-BRTS,158-D,Lohgaon To Ma Na Pa,13.5
+Non-BRTS,158-U,Ma Na Pa To Lohgaon,13.5
+BRTS,159-D,Talegaon Dhamdhere To Ma Na Pa,40.5
+BRTS,159K-D,Koregaon Bhima To Ma Na Pa,29
+BRTS,159K-U,Ma Na Pa To Koregaon Bhima,29
+BRTS,159P-D,Pabal Phata To Ma Na Pa,40.8
+BRTS,159P-U,Ma Na Pa To Pabal Phata,40.8
+BRTS,159-U,Ma Na Pa To Talegaon Dhamdhere,40.5
+Non-BRTS,160-D,Mundhwagaon To Ma Na Pa,10.9
+Non-BRTS,160-U,Ma Na Pa To Mundhwagaon,10.9
+BRTS,161-D,Vimannagar To Deccan Gymkhana,15.6
+BRTS,161-U,Deccan Gymkhana To Vimannagar,15.6
+Non-BRTS,162-D,Kendurgaon To Pune Station,46
+Non-BRTS,162-U,Pune Station To Kendurgaon,46
+BRTS,163-D,Kharadi Gaon To Pune Station,11
+BRTS,163-U,Pune Station To Kharadi Gaon,11
+BRTS,164-D,Vimannagar To Swargate,15.5
+BRTS,164-U,Swargate To Vimannagar,15.5
+BRTS,165-D,Vadgaonsheri To Ma Na Pa,11.1
+BRTS,165-U,Ma Na Pa To Vadgaonsheri,11.1
+BRTS,166-D,Vimannagar To Pune Station,9.5
+BRTS,166-U,Pune Station To Vimannagar,9.5
+Non-BRTS,167-D,Kesnand Phata Wagholi To Hadapsar Gadital,14.2
+Non-BRTS,167-U,Hadapsar Gadital To Kesnand Phata Wagholi,14.2
+Non-BRTS,168-D,Keshavnagar To Ma Na Pa,11.6
+Non-BRTS,168-U,Ma Na Pa To Keshavnagar,11.6
+Non-BRTS,169-D,Keshavnagar To Ma Na Pa,12
+Non-BRTS,169-U,Ma Na Pa To Keshavnagar,12
+Non-BRTS,170-D,Kondhwa Bk To Pune Station,11.3
+Non-BRTS,170-U,Pune Station To Kondhwa Bk,11.3
+Non-BRTS,174-D,Kondhwa Gate To Pune Station,24.5
+Non-BRTS,174-U,Pune Station To Kondhwa Gate,24.5
+Non-BRTS,175-D,Hadapsar Gadital To Ma Na Pa,16
+Non-BRTS,175-U,Ma Na Pa To Hadapsar Gadital,16
+Non-BRTS,176A-D,Krushnanagar Mohammadwadi To Sarasbaug,12.7
+Non-BRTS,176A-U,Sarasbaug To Krushnanagar Mohammadwadi,12.7
+Non-BRTS,176-D,Mahammad Wadi To Sarasbaug,12.7
+Non-BRTS,176-U,Sarasbaug To Mahammad Wadi,12.7
+Non-BRTS,177A-D,Azadnagar To Vishrantwadi,19.8
+Non-BRTS,177A-U,Vishrantwadi To Azadnagar,19.8
+Non-BRTS,177B-D,Siddharthnagar To Pune Station,9.7
+Non-BRTS,177B-U,Pune Station To Siddharthnagar,9.7
+Non-BRTS,177-D,Salunke Vihar To Pune Station,9.2
+Non-BRTS,177K-D,Krushnanagar Mohammadwadi To Pune Station,10.9
+Non-BRTS,177K-U,Pune Station To Krushnanagar Mohammadwadi,10.9
+Non-BRTS,177M-D,Mahammad Wadi To Pune Station,13.3
+Non-BRTS,177M-U,Pune Station To Mahammad Wadi,13.3
+Non-BRTS,177-U,Pune Station To Salunke Vihar,9.2
+Non-BRTS,179-D,Vadachiwadi To swargate,14.2
+Non-BRTS,179-U,Swargate To Vadachiwadi,14.2
+Non-BRTS,17-D,Narhegaon To Shaniwarwada,13.2
+Non-BRTS,17-U,Shaniwarwada To Narhegaon,13.2
+Non-BRTS,180-D,Bhekrainagar To Na Ta Wadi,15.5
+Non-BRTS,180-U,Na Ta Wadi To Bhekrainagar,15.5
+Non-BRTS,181A-D,SRP Camp To Na Ta Wadi,12.3
+Non-BRTS,181A-U,Na Ta Wadi To SRP Camp,12.3
+Non-BRTS,181B-D,Siddharthnagar To Na Ta Wadi,11.5
+Non-BRTS,181B-U,Na Ta Wadi To Siddharthnagar,11.5
+Non-BRTS,181-D,Kondhwa Kh To Na Ta Wadi,11.5
+Non-BRTS,181-U,Na Ta Wadi To Kondhwa Kh,11.5
+Non-BRTS,183-D,Theur To Hadapsar Gadital,17.4
+Non-BRTS,183-U,Hadapsar Gadital To Theur,17.4
+Non-BRTS,184A-D,Bhekrainagar To Swargate,12.1
+Non-BRTS,184A-NGT-D,Hadapsar Gadital To Swargate,9.5
+Non-BRTS,184A-NGT-U,Swargate To Hadapsar Gadital,9.5
+Non-BRTS,184A-U,Swargate To Bhekrainagar,12.1
+Non-BRTS,184B-D,Fursungi To Swargate,15.3
+Non-BRTS,184B-U,Swargate To Fursungi,15.3
+Non-BRTS,184-D,Fursungi To Padmawati,19.6
+Non-BRTS,184-U,Padmawati To Fursungi,19.6
+Non-BRTS,185-D,Manjari Kh To Hadapsar Gadital,8.3
+Non-BRTS,185-U,Hadapsar Gadital To Manjari Kh,8.3
+Non-BRTS,186A-D,Swargate To Jspm College,13.3
+Non-BRTS,186A-U,Jspm College To Swargate,13.3
+Non-BRTS,186-D,Pune Station To Jspm College,14.2
+Non-BRTS,186-U,Jspm College To Pune Station,14.2
+Non-BRTS,187-D,Pune Station To Bhekrainagar,15
+Non-BRTS,187-U,Bhekrainagar To Pune Station,15
+Non-BRTS,188-D,Katraj To Hadapsar Gadital,18
+Non-BRTS,188-U,Hadapsar Gadital To Katraj,18
+Non-BRTS,189-D,Devachi Uruli To Hadapsar Gadital,6.7
+Non-BRTS,189-U,Hadapsar Gadital To Devachi Uruli,6.7
+Non-BRTS,18-D,Bhansali Complex To Swargate,8.5
+Non-BRTS,18-U,Swargate To Bhansali Complex,8.5
+Non-BRTS,190-D,Fursungi To Hadapsar Gadital,6
+Non-BRTS,190-U,Hadapsar Gadital To Fursungi,6
+Non-BRTS,191-D,Trinity College To Pune Station,14.5
+Non-BRTS,191-U,Pune Station To Trinity College,14.5
+Non-BRTS,192-D,Undrigaon To Hadapsar Gadital,8
+Non-BRTS,192-U,Hadapsar Gadital To Undrigaon,8
+Non-BRTS,193-D,Uruli Kanchan To Hadapsar Gadital,20.8
+Non-BRTS,193-U,Hadapsar Gadital To Uruli Kanchan,22.8
+Non-BRTS,195-D,Holkarwadi To Hadapsar Gadital,8.5
+Non-BRTS,195-U,Hadapsar Gadital To Holkarwadi,8.5
+Non-BRTS,196A-D,Tukaidarshan To Swargate,15
+Non-BRTS,196A-U,Swargate To Tukaidarshan,15
+Non-BRTS,196-D,Tukaidarshan To Hadapsar Gadital,4.4
+Non-BRTS,196-U,Hadapsar Gadital To Tukaidarshan,4.4
+Non-BRTS,197-D,Kothrud Depot To Hadapsar Gadital,17.6
+Non-BRTS,197-U,Hadapsar Gadital To Kothrud Depot,17.6
+Non-BRTS,198-D,Manjari Bk To Hadapsar Gadital,11
+Non-BRTS,198-U,Hadapsar Gadital To Manjari Bk,11
+Non-BRTS,19-D,Shivajinagar To Kondhwa Hospital,15.7
+Non-BRTS,19-U,Kondhwa Hospital To Shivajinagar,15.7
+Non-BRTS,200-D,Swargate To Sadesatranali,12.4
+Non-BRTS,200-U,Sadesatranali To Swargate,12.4
+Non-BRTS,201-D,Alandi To Bhekrainagar,34.3
+Non-BRTS,201-U,Bhekrainagar To Alandi,34.3
+Non-BRTS,202-D,Ganpati Matha To Hadapsar Gadital,19.2
+Non-BRTS,202-U,Hadapsar Gadital To Ganpati Matha,19.2
+Non-BRTS,203-D,Pune Station To Bhekrainagar,12.6
+Non-BRTS,203-NGT-D,Pune Station To Hadapsar Gadital,10
+Non-BRTS,203-NGT-U,Hadapsar Gadital To Pune Station,10
+Non-BRTS,203P-D,Pune Station To Shewalwadi,13.5
+Non-BRTS,203P-U,Shewalwadi To Pune Station,13.5
+Non-BRTS,203-U,Bhekrainagar To Pune Station,12.6
+BRTS,204-D,Chinchwadgaon To Bhekrainagar,31.9
+BRTS,204-U,Bhekrainagar To Chinchwadgaon,31.9
+Non-BRTS,205-D,Vasantdada Putala Sangvi To Hadapsar Gadital,26.5
+Non-BRTS,205-U,Hadapsar Gadital To Vasantdada Putala Sangvi,26.5
+Non-BRTS,206-D,Vishalnagar To Hadapsar Gadital,26.8
+Non-BRTS,206-U,Hadapsar Gadital To Vishalnagar,26.8
+Non-BRTS,207A-D,Saswad To Hadapsar Gadital,23
+Non-BRTS,207A-U,Hadapsar Gadital To Saswad,23
+Non-BRTS,207-D,Saswad To Swargate,32.7
+Non-BRTS,207-U,Swargate To Saswad,32.7
+Non-BRTS,208-D,Hinjawadi - Maan Phase 3 To Hadapsar Gadital,36.3
+Non-BRTS,208-U,Hadapsar Gadital To Hinjawadi - Maan Phase 3,36.3
+Non-BRTS,20-D,Pune Station To Sahkarnagar,9.5
+Non-BRTS,20-U,Sahkarnagar To Pune Station,9.5
+BRTS,213-D,Vimannagar To Katraj,21.9
+BRTS,213-U,Katraj To Vimannagar,21.9
+Non-BRTS,214-D,Chintamani Dnyanpith To Katraj,4
+Non-BRTS,214-U,Katraj To Chintamani Dnyanpith,4
+Non-BRTS,215-D,Swargate To Chintamani Dnyanpith,7.5
+Non-BRTS,215-U,Chintamani Dnyanpith To Swargate,7.5
+Non-BRTS,216-R,Bharati Vidyapeeth To Bharati Vidyapeeth,15.4
+Non-BRTS,217-D,Gujarwadi To Jambhulwadi,7
+Non-BRTS,217-U,Jambhulwadi To Gujarwadi,7
+Non-BRTS,218-D,Balewadi Depot To Katraj,23
+Non-BRTS,218-U,Katraj To Balewadi Depot,23
+Non-BRTS,21-D,Vasantdada Putala Sangvi To Swargate,14.9
+Non-BRTS,21N-D,Pimplenilakh To Swargate,15.1
+Non-BRTS,21N-U,Swargate To Pimplenilakh,15.1
+Non-BRTS,21-U,Swargate To Vasantdada Putala Sangvi,14.9
+Non-BRTS,226-D,Dhayari Maruti Mandir To Pune Station,16.7
+Non-BRTS,226-U,Pune Station To Dhayari Maruti Mandir,16.7
+Non-BRTS,227-D,Marnewadi To Marketyard,33.5
+Non-BRTS,227-U,Marketyard To Marnewadi,33.5
+Non-BRTS,22-D,Shivajinagar To Khandoba Mandir,10
+Non-BRTS,22-U,Khandoba Mandir To Shivajinagar,10
+Non-BRTS,230-D,Pune Station To Bharati Vidyapeeth,10.9
+Non-BRTS,230-U,Bharati Vidyapeeth To Pune Station,10.9
+Non-BRTS,233-D,Paudgaon To Marketyard,35.6
+Non-BRTS,233-U,Marketyard To Paudgaon,35.6
+BRTS,234-D,Kharadi Gaon To Ma Na Pa,14
+BRTS,234-U,Ma Na Pa To Kharadi Gaon,14
+BRTS,235-D,Kharadi Gaon To Katraj,22.4
+BRTS,235-U,Katraj To Kharadi Gaon,22.4
+BRTS,236-D,Khulewadi To Ma Na Pa,13.5
+BRTS,236-U,Ma Na Pa To Khulewadi,13.5
+BRTS,237-D,Kharadi Gaon To Warje Malwadi,24.2
+BRTS,237-U,Warje Malwadi To Kharadi Gaon,24.2
+Non-BRTS,23-D,Pune Station To Upper Depot,11.4
+Non-BRTS,23-U,Upper Depot To Pune Station,11.4
+Non-BRTS,24A-D,Maharashtra Housing Board Samtanagar To Katraj Via Nana Peth,18
+Non-BRTS,24A-U,Katraj To Maharashtra Housing Board Samtanagar Via Nana Peth,18
+Non-BRTS,24B-D,Lohgaon To Katraj,21.1
+Non-BRTS,24B-U,Katraj To Lohgaon,21.1
+Non-BRTS,24-D,Maharashtra Housing Board Samtanagar To Katraj,18
+Non-BRTS,24-NGT-D,Pune Station To Katraj,10.8
+Non-BRTS,24-NGT-U,Katraj To Pune Station,10.8
+Non-BRTS,24-U,Katraj To Maharashtra Housing Board Samtanagar,18
+Non-BRTS,252-D,Charholigaon To Ma Na Pa,21.6
+Non-BRTS,252-U,Ma Na Pa To Charholigaon,21.6
+Non-BRTS,256B-D,Banergaon To Ma Na Pa,11
+Non-BRTS,256B-U,Ma Na Pa To Banergaon,11
+Non-BRTS,256-D,Balewadi Depot To Ma Na Pa,13.5
+Non-BRTS,256S-D,Someshwarwadi To Ma Na Pa,8.1
+Non-BRTS,256S-U,Ma Na Pa To Someshwarwadi,8.1
+Non-BRTS,256-U,Ma Na Pa To Balewadi Depot,13.5
+Non-BRTS,257A-D,Markalgaon To Ma Na Pa,31.2
+Non-BRTS,257A-U,Ma Na Pa To Markalgaon,31.2
+Non-BRTS,262-D,Dehugaon To Ma Na Pa,31.3
+Non-BRTS,262-U,Ma Na Pa To Dehugaon,31.3
+Non-BRTS,264-D,Bahulgaon To Ma Na Pa,38
+Non-BRTS,264-U,Ma Na Pa To Bahulgaon,38
+Non-BRTS,26-D,Shivajinagar To Dhankawadi,10.2
+Non-BRTS,26-U,Dhankawadi To Shivajinagar,10.2
+BRTS,276-D,Chinchwadgaon To Warje Malwadi,24.9
+BRTS,276-U,Warje Malwadi To Chinchwadgaon,24.9
+Non-BRTS,277-D,Khadki Bazar To Kondhwagate,24
+Non-BRTS,277-U,Kondhwagate To Khadki Bazar,24
+Non-BRTS,279-D,Khamboli To Deccan Gymkhana,34.6
+Non-BRTS,279-U,Deccan Gymkhana To Khamboli,34.6
+Non-BRTS,27-D,Shivajinagar To Bharati Vidyapeeth,10.9
+Non-BRTS,27-U,Bharati Vidyapeeth To Shivajinagar,11.1
+Non-BRTS,280-D,Ma Na Pa To Warje Hanuman Chowk,9.9
+Non-BRTS,280-U,Warje Hanuman Chowk To Ma Na Pa,9.9
+Non-BRTS,281-D,Bhakti Shakti To Warje Malewadi,28.4
+Non-BRTS,281-U,Warje Malewadi To Bhakti Shakti,28.4
+Non-BRTS,282-D,Bhosarigaon To Warje Malewadi,25.6
+Non-BRTS,282-U,Warje Malewadi To Bhosarigaon,25.6
+Non-BRTS,283-D,Pune Station To Kumbare Park,12.5
+Non-BRTS,283-U,Kumbare Park To Pune Station,12.5
+Non-BRTS,284-D,Bhakti Shakti To Kothrud Depot,26.5
+Non-BRTS,284-U,Kothrud Depot To Bhakti Shakti,26.5
+Non-BRTS,286-D,Azadnagar To Galinde Path,16.8
+Non-BRTS,286-U,Galinde Path To Azadnagar,16.8
+Non-BRTS,28-D,Shivajinagar To Katraj Via Bibvewadi,11.1
+Non-BRTS,28-U,Katraj To Shivajinagar Via Bibvewadi,11.1
+Non-BRTS,290-D,Shivajinagar To Shaninagar,13.4
+Non-BRTS,290-U,Shaninagar To Shivajinagar,13.4
+Non-BRTS,291A-D,Hadapsar Gadital To Upper Depot,15.6
+Non-BRTS,291A-U,Upper Depot To Hadapsar Gadital,15.6
+Non-BRTS,291-D,Hadapsar Gadital To Katraj,14.2
+Non-BRTS,291-U,Katraj To Hadapsar Gadital,14.2
+Non-BRTS,292A-D,Kalyangaon To Swargate,34
+Non-BRTS,292A-U,Swargate To Kalyangaon,34
+Non-BRTS,292B-D,Rahatwadegaon To Swargate,30
+Non-BRTS,292B-U,Swargate To Rahatwadegaon,30
+Non-BRTS,292C-D,Avsarwadi To Swargate,31
+Non-BRTS,292C-U,Swargate To Avsarwadi,31
+Non-BRTS,292-D,Kondhanpur To Swargate,29
+Non-BRTS,292-U,Swargate To Kondhanpur,29
+Non-BRTS,293-D,Kusgaon To Swargate,25.3
+Non-BRTS,293-U,Swargate To Kusgaon,25.3
+Non-BRTS,294-D,Khadakwasla Dharan To Katraj,13
+Non-BRTS,294-U,Katraj To Khadakwasla Dharan,13
+Non-BRTS,295-D,Pune Station To Ambegaon,16.7
+Non-BRTS,295-U,Ambegaon To Pune Station,16.7
+Non-BRTS,296-D,Shivajinagar To Jambhulwadi,13.3
+Non-BRTS,296-U,Jambhulwadi To Shivajinagar,13.3
+Non-BRTS,297-D,Shivajinagar To Rajas Society,11.5
+Non-BRTS,297-U,Rajas Society To Shivajinagar,11.5
+BRTS,298-D,Chinchwadgaon To Katraj,26.75
+BRTS,298-U,Katraj To Chinchwadgaon,26.75
+Non-BRTS,299-D,Bhosarigaon To Katraj,26.9
+Non-BRTS,299-U,Katraj To Bhosarigaon,26.9
+Non-BRTS,29A-D,Alandi To Swargate,28.6
+Non-BRTS,29A-U,Swargate To Alandi,28.6
+BRTS,29-D,Vishrantwadi To Swargate,12.6
+BRTS,29-U,Swargate To Vishrantwadi,12.6
+Non-BRTS,2A-D,Shivajinagar To Katraj Ladies Special,10.5
+Non-BRTS,2A-U,Katraj To Shivajinagar Ladies Special,10.5
+Non-BRTS,2B-D,Shivajinagar To Bhilarewadi,12
+Non-BRTS,2B-U,Bhilarewadi To Shivajinagar,12
+Non-BRTS,2-D,Shivajinagar To Katraj,10.5
+Non-BRTS,2K-D,Shivajinagar To Narhegaon,14.5
+Non-BRTS,2K-U,Narhegaon To Shivajinagar,14.5
+Non-BRTS,2-NGT-D,Shivajinagar To Katraj Night Service,10.5
+Non-BRTS,2-NGT-U,Katraj To Shivajinagar Night Service,10.5
+Non-BRTS,2-U,Katraj To Shivajinagar,10.5
+Non-BRTS,301-D,Shewalwadi To Katraj,19
+Non-BRTS,301-U,Katraj To Shewalwadi,19
+Non-BRTS,302A-D,Alandi To Pimprigaon,17.7
+Non-BRTS,302A-U,Pimprigaon To Alandi,17.7
+Non-BRTS,302B-D,Bopkhel To Pimprigaon,19.85
+Non-BRTS,302B-U,Pimprigaon To Bopkhel,19.85
+Non-BRTS,302-D,Gavhanevasti Bhosari To Pimprigaon,8.65
+Non-BRTS,302-U,Pimprigaon To Gavhanevasti Bhosari,8.65
+Non-BRTS,303A-D,Ravet Basket Pul To Nigdi,6
+Non-BRTS,303A-U,Nigdi To Ravet Basket Pul,6
+Non-BRTS,303-D,Akurdi Railway Station To Nigdi,6.2
+Non-BRTS,303-U,Nigdi To Akurdi Railway Station,6.2
+Non-BRTS,304-D,Gavhanevasti Bhosari To Chinchwadgaon,10.2
+Non-BRTS,304-U,Chinchwadgaon To Gavhanevasti Bhosari,10.2
+Non-BRTS,305A-D,Dy Patil College Wadgaonmawal To Nigdi,22
+Non-BRTS,305A-U,Nigdi To Dy Patil College Wadgaonmawal,22
+Non-BRTS,305B-D,Navlakh Umbre To Nigdi,26
+Non-BRTS,305B-U,Nigdi To Navlakh Umbre,26
+Non-BRTS,305-D,Vadgaon Mawal To Nigdi,22
+Non-BRTS,305-U,Nigdi To Vadgaon Mawal,22
+Non-BRTS,306-D,Hinjawadi Maan Phase 3 To Dange Chowk,13.3
+Non-BRTS,306-U,Dange Chowk To Hinjawadi Maan Phase 3,13.3
+Non-BRTS,307-D,Walhekarwadi To Chinchwadgaon,2.3
+Non-BRTS,307-U,Chinchwadgaon To Walhekarwadi,2.3
+Non-BRTS,308-D,Gharkul Vasahat Chikhli To Bhakti Shakti,5.4
+Non-BRTS,308-U,Bhakti Shakti To Gharkul Vasahat Chikhli,5.4
+Non-BRTS,309-D,Dehugaon To Alandi,16
+Non-BRTS,309-U,Alandi To Dehugaon,16
+Non-BRTS,30-D,Ghotawade Phata To Marketyard,31.5
+Non-BRTS,30-U,Marketyard To Ghotawade Phata,31.5
+Non-BRTS,310-D,Walhekarwadi To Pune Station,24.8
+Non-BRTS,310-U,Pune Station To Walhekarwadi,24.8
+Non-BRTS,311-D,Pimprigaon To Pune Station,21.8
+Non-BRTS,311-U,Pune Station To Pimprigaon,21.8
+Non-BRTS,312-D,Chinchwadgaon To Pune Station,22.5
+Non-BRTS,312-U,Pune Station To Chinchwadgaon,22.5
+Non-BRTS,313-D,Chandkhed To Chinchwadgaon,19.3
+Non-BRTS,313-U,Chinchwadgaon To Chandkhed,19.3
+Non-BRTS,314-D,Mhalunge MIDC To Bhakti Shakti,11.2
+Non-BRTS,314-U,Bhakti Shakti To Mhalunge MIDC,11.2
+Non-BRTS,315-D,Bhosari To Pune Station,18.5
+Non-BRTS,315-U,Pune Station To Bhosari,18.5
+Non-BRTS,316-D,Hinjawadi Maan Phase 3 To Chinchwadgaon,14.2
+Non-BRTS,316-U,Chinchwadgaon To Hinjawadi Maan Phase 3,14.2
+Non-BRTS,317-D,Sambhajinagar To Pune Station,23.7
+Non-BRTS,317-U,Pune Station To Sambhajinagar,23.7
+BRTS,318A-D,Gharkul Vasahat Chikali To Pune Station,25.6
+BRTS,318A-U,Pune Station To Gharkul Vasahat Chikali,25.6
+BRTS,318-D,Krishanagar To Pune Station,26
+BRTS,318-U,Pune Station To Krishnanagar,26
+Non-BRTS,319-D,Vadgaon Mawal To Alandi,32.8
+Non-BRTS,319-U,Alandi To Vadgaon Mawal,32.8
+Non-BRTS,31-D,Pune Station To Taljai Pathar,12
+Non-BRTS,31-U,Taljai Pathar To Pune Station,12
+Non-BRTS,320-D,Mahalungegaon To Alandi,30.5
+Non-BRTS,320-U,Alandi To Mahalungegaon,30.5
+BRTS,321A-D,Hinjewadi - Maan Phase 3 To Pimpale Gurav,21.8
+BRTS,321A-U,Pimple Gurav To Hinjewadi - Maan Phase 3,21.8
+BRTS,321-D,Hinjewadi - Maan Phase 3 To Vasasantdada Putla Sangvi,23.1
+BRTS,321-U,Vasasantdada Putla Sangvi To Hinjewadi - Maan Phase 3,23.1
+Non-BRTS,322A-D,Akurdi Railway Station To Ganpati Matha,30.8
+Non-BRTS,322A-U,Warje Malwadi To Akurdi Railway Station,30.8
+Non-BRTS,322K-D,Akurdi Railway Station To Ma Na Pa,23.5
+Non-BRTS,322K-U,Ma Na Pa To Akurdi Railway Station,23.5
+Non-BRTS,323A-D,Gharkul Vasahat Chikhli To Ma Na Pa,20.8
+Non-BRTS,323A-U,Ma Na Pa To Gharkul Vasahat Chikhli,20.8
+Non-BRTS,323-D,Chikhali To Ma Na Pa,23.4
+Non-BRTS,323-U,Ma Na Pa To Chikhali,23.4
+BRTS,324-D,Hinjawadi - Maan Phase 3 To Bhosari,25.3
+BRTS,324-U,Bhosari To Hinjewadi - Maan Phase 3,25.3
+Non-BRTS,325-D,Masulkar Colony To Pune Station,18.7
+Non-BRTS,325-U,Pune Station To Masulkar Colony,18.7
+Non-BRTS,326-D,Chikhali To Pimprigaon,12.1
+Non-BRTS,326-U,Pimprigaon To Chikhali,12.1
+Non-BRTS,327-D,Hinjawadi Maan Phase 3 To Alandi,35.7
+Non-BRTS,327-U,Alandi To Hinjawadi Maan Phase 3,35.7
+Non-BRTS,328A-D,Rupeenagar To Nigdi,3
+Non-BRTS,328A-U,Nigdi To Rupeenagar,3
+Non-BRTS,329A-D,Dehugaon To Pune Station Via Khadki Bazar,34
+Non-BRTS,329A-U,Pune Station To Dehugaon Via Khadki Bazar,34
+Non-BRTS,329-D,Dehugaon To Pune Station,33
+Non-BRTS,329-U,Pune Station To Dehugaon,33
+Non-BRTS,32-D,Alandi To Bharati Vidyapeeth,34.1
+Non-BRTS,32-U,Bharati Vidyapeeth To Alandi,34.1
+Non-BRTS,331A-D,Rahatnigaon To Gavhanevasti Bhosari,13
+Non-BRTS,331A-U,Gavhanevasti Bhosari To Rahatnigaon,13
+Non-BRTS,331B-D,Rahatnigaon To Charholigaon Via Kaljewadi,21.7
+Non-BRTS,331B-U,Charholigaon To Rahatnigaon Via Kaljewadi,21.7
+Non-BRTS,331-D,Rahatnigaon To Charholigaon,22
+Non-BRTS,331-U,Charholigaon To Rahatnigaon,22
+BRTS,332A-D,Pimple Saudagar To Ma Na Pa,15.7
+BRTS,332A-U,Ma Na Pa To Pimple Saudagar,15.7
+Non-BRTS,332-D,Pimpri To Pune Station,26.4
+Non-BRTS,332-U,Pune Station To Pimpri,26.4
+BRTS,333-D,Hinjawadi - Maan Phase 3 To Pune Station,26.6
+BRTS,333-U,Pune Station To Hinjawadi - Maan Phase 3,26.6
+Non-BRTS,334-D,Gharkul Vasahat Chikhali To Pimprigaon,10
+Non-BRTS,334-U,Pimprigaon To Gharkul Vasahat Chikhli,10.1
+Non-BRTS,335A-D,Jambe To Dange Chowk,7.6
+Non-BRTS,335A-U,Dange Chowk To Jambe,7.6
+BRTS,336-D,Bhakti Shakti To Kesnand Phata,31
+BRTS,336-U,Kesnand Phata To Bhakti Shakti,31
+BRTS,337-D,Bhakti Shakti To Dhayari Maruti Mandir,37.7
+BRTS,337-U,Dhayari Maruti Mandir To Bhakti Shakti,37.7
+Non-BRTS,339B-D,Indrayaninagar To Pune Station,22.6
+Non-BRTS,339B-U,Pune Station To Indrayaninagar,22.6
+Non-BRTS,339-D,Santnagar MIDC Police Station To Katraj,32.5
+Non-BRTS,339-U,Katraj To Santnagar MIDC Police Station,32.5
+Non-BRTS,33-D,Na Ta Wadi To Taljai Pathar,10.2
+Non-BRTS,33-U,Taljai Pathar To Na Ta Wadi,10.2
+BRTS,341-D,Mohannagar To Ma Na Pa,22.2
+BRTS,341-U,Ma Na Pa To Mohannagar,22.2
+Non-BRTS,344-D,Pimple Nilakh To Alandi,25.4
+Non-BRTS,344-U,Alandi To Pimple Nilakh,25.4
+BRTS,345-D,Thergaon To Pune Station,19.3
+BRTS,345-U,Pune Station To Thergaon,19.3
+Non-BRTS,347-D,Dapodi To Alandi,30.9
+Non-BRTS,347-U,Alandi To Dapodi,30.9
+BRTS,348-D,Nigdi To Pune Station,24
+BRTS,348-U,Pune Station To Nigdi,24
+Non-BRTS,350A-D,Dehugaon To Pimprigaon,17.1
+Non-BRTS,350A-U,Pimprigaon To Dehugaon,17.1
+Non-BRTS,350-D,Dehugaon To Nigdi,8.8
+Non-BRTS,350-U,Nigdi To Dehugaon,8.8
+Non-BRTS,351-D,Jambe To Alandi,32.5
+Non-BRTS,351-U,Alandi To Jambe,32.5
+Non-BRTS,354A-D,Pimpri To Marketyard,28.5
+Non-BRTS,354A-U,Marketyard To Pimpri,28.5
+Non-BRTS,354-D,Pimprigaon To Marketyard,28.8
+Non-BRTS,354-U,Marketyard To Pimprigaon,28.8
+Non-BRTS,355-D,Chikhali To Dange Chowk,13
+Non-BRTS,355-U,Dange Chowk To Chikhali,13
+Non-BRTS,357-D,Rajgurunagar To Pune Station,43.6
+Non-BRTS,357-U,Pune Station To Rajgurunagar,43.6
+Non-BRTS,358-D,Rajgurunagar To Bhosari,28.4
+Non-BRTS,358-U,Bhosari To Rajgurunagar,28.4
+Non-BRTS,360-D,Balewadi Depot To Alandi,35
+Non-BRTS,360-U,Alandi To Balewadi Depot,35
+Non-BRTS,361-D,Bhosari Terminal To Alandi,8.5
+Non-BRTS,361-U,Alandi To Bhosari Terminal,8.5
+Non-BRTS,362-D,YCM Hospital To Alandi,14
+Non-BRTS,362-U,Alandi To YCM Hospital,14
+Non-BRTS,363A-D,Kiwalegaon To Nigdi,10.7
+Non-BRTS,363A-U,Nigdi To Kiwalegaon,10.7
+Non-BRTS,363-D,Adarshnagar To Nigdi,9
+Non-BRTS,363-U,Nigdi To Adarshnagar,9
+Non-BRTS,366-D,Bhakti Shakti To Pune Station,22.7
+Non-BRTS,366-U,Pune Station To Bhakti Shakti,22.7
+Non-BRTS,367A-D,Santnagar MIDC Police Station To Akurdi Railway Station,18.5
+Non-BRTS,367A-U,Akurdi Railway Station To Santnagar MIDC Police Station,18.5
+Non-BRTS,367B-D,Gharkul Vasahat To Bhosari Terminal,11.4
+Non-BRTS,367B-U,Bhosari Terminal To Gharkul Vasahat,11.4
+Non-BRTS,367-D,Gavhanevasti Bhosari To Nigdi,10.8
+Non-BRTS,367-U,Nigdi To Gavhanevasti Bhosari,10.8
+BRTS,36-D,Chinchwadgaon To Ma Na Pa,17.1
+BRTS,36-U,Ma Na Pa To Chinchwadgaon,17.1
+Non-BRTS,370-R,Pimpri To Pimpri,14.5
+Non-BRTS,372-D,Hinjawadi Maan Phase 3 To Bhakti Shakti,20.9
+Non-BRTS,372-U,Bhakti Shakti To Hinjawadi Maan Phase 3,20.9
+Non-BRTS,373-D,Hinjawadi Maan Phase 3 To Wakad pul,10
+Non-BRTS,373-U,Wakad Pul To Hinjawadi Maan Phase 3,10
+Non-BRTS,376A-D,Bhakti Shakti To Warje Malewadi Via YCM Hospital,31.2
+Non-BRTS,376A-U,Warje Malwadi To Bhakti Shakti,31.2
+Non-BRTS,376B-D,Bhakti Shakti To Shewalwadi Via YCM Hospital,35.7
+Non-BRTS,376B-U,Shewalwadi To Bhakti Shakti Via YCM Hospital,35.7
+Non-BRTS,376-D,Bhakti Shakti To Katraj Via YCM Hospital,30.9
+Non-BRTS,376K-D,Sambhajinagar To Katraj,32.9
+Non-BRTS,376K-U,Katraj To Sambhajinagar,32.9
+Non-BRTS,376-U,Katraj To Bhakti Shakti Via YCM Hospital,30.9
+Non-BRTS,37-D,Na Ta Wadi To Sahkarnagar,7
+Non-BRTS,37-U,Sahkarnagar To Na Ta Wadi,7
+Non-BRTS,38-D,Na Ta Wadi To Dhankawadi,9
+Non-BRTS,38-U,Dhankawadi To Na Ta Wadi,9
+Non-BRTS,39-D,Pune Station To Dhankawadi,10.5
+Non-BRTS,39-U,Dhankawadi To Pune Station,10.5
+Non-BRTS,3-D,Pune Station To Swargate,7.5
+Non-BRTS,3-U,Swargate To Pune Station,7.5
+Non-BRTS,40-D,Mandai To Saket Society,5.3
+Non-BRTS,40-U,Saket Society To Mandai,5.3
+Non-BRTS,41-D,Dapodi Mantri Niketan To Marketyard,19.3
+Non-BRTS,41-U,Marketyard To Dapodi Mantri Niketan,19.3
+Non-BRTS,42-D,Bhakti Shakti To Katraj,28.95
+Non-BRTS,42-U,Katraj To Bhakti Shakti,28.95
+Non-BRTS,43A-D,Hinjawadi Maan Phase 3 To Katraj,33.7
+Non-BRTS,43A-U,Katraj To Hinjawadi Maan Phase 3,33.7
+Non-BRTS,43-D,Bhakti Shakti To Katraj,33.7
+Non-BRTS,43-U,Katraj To Bhakti Shakti,33.7
+Non-BRTS,46-D,Lohgaon To Swargate,23.5
+Non-BRTS,46-U,Swargate To Lohgaon,23.5
+Non-BRTS,47-D,Sanaswadi Nandoshi To Shaniwarwada,17.7
+Non-BRTS,47-U,Shaniwarwada To Sanaswadi Nandoshi,17.7
+Non-BRTS,48-D,Venutai Chavan College To Pune Station,16.8
+Non-BRTS,48-U,Pune Station To Venutai Chavan College,16.8
+Non-BRTS,49-D,Khanapur To Pune Station,27.7
+Non-BRTS,49-U,Pune Station To Khanapur,27.7
+Non-BRTS,50-D,Sinhgad To Shaniwarwada,24.8
+Non-BRTS,50-U,Shaniwarwada To Sinhgad,24.8
+Non-BRTS,51-D,Dhayarigaon To Shivajinagar,13.2
+Non-BRTS,51-U,Shivajinagar To Dhayarigaon,13.2
+Non-BRTS,52A-D,Osade Phata To Swargate,30.1
+Non-BRTS,52A-U,Swargate To Osade Phata,30.1
+Non-BRTS,52-D,Khanapur To Swargate,23.2
+Non-BRTS,52-U,Swargate To Khanapur,23.2
+Non-BRTS,53-D,DSK Vishwa To Shivajinagar,15.4
+Non-BRTS,53-U,Shivajinagar To DSK Vishwa,15.4
+Non-BRTS,54-D,Venutai Chavan College To Na Ta Wadi,13.9
+Non-BRTS,54-U,Na Ta Wadi To Venutai Chavan College,13.9
+Non-BRTS,55-D,Mandai To Suncity,7.8
+Non-BRTS,55-U,Suncity To Mandai,7.8
+Non-BRTS,56-D,Mandai To Vadgaon Bk,9.4
+Non-BRTS,56-U,Vadgaon Bk To Mandai,9.4
+Non-BRTS,57A-D,Suncity To Pune Station,10.3
+Non-BRTS,57A-U,Pune Station To Suncity,10.3
+Non-BRTS,57-D,Vadgaon Bk To Pune Station,12.3
+Non-BRTS,57-U,Pune Station To Vadgaon Bk,12.3
+Non-BRTS,58-D,Gokhalenagar To Shanipar,5.6
+Non-BRTS,58P-D,Pandavnagar Senapati Bapat Road To Shanipar,7.8
+Non-BRTS,58P-U,Shanipar To Pandavnagar Senapati Bapat Road,7.8
+Non-BRTS,58-U,Shanipar To Gokhalenagar,5.6
+Non-BRTS,59-D,Niljyoti To Shanipar,6.2
+Non-BRTS,59-U,Shanipar To Niljyoti,6.2
+Non-BRTS,5A-D,Tadiwala Road To Swargate,6.3
+Non-BRTS,5A-U,Swargate To Tadiwala Road,6.3
+Non-BRTS,5-D,Pune Station To Swargate,5.45
+Non-BRTS,5-U,Swargate To Pune Station,5.45
+Non-BRTS,60-D,Ghulenager To Mandai,11
+Non-BRTS,60-U,Mandai To Ghulenager,11
+Non-BRTS,61-D,Nasrapur To Swargate,32
+Non-BRTS,61-U,Swargate To Nasrapur,32
+Non-BRTS,62-D,Sangamwadi To Sukhsagarnagar,18.3
+Non-BRTS,62-U,Sukhsagarnagar To Sangamwadi,18.3
+Non-BRTS,63-D,Kalyaninagar To Swargate,11.5
+Non-BRTS,63-U,Swargate To Kalyaninagar,11.5
+Non-BRTS,64A-D,Warje Malwadi To Swargate,10
+Non-BRTS,64A-U,Swargate To Warje Malwadi,10
+Non-BRTS,64B-D,Gujrat Colony To Upper Depot,11.7
+Non-BRTS,64B-U,Upper Depot To Gujrat Colony,11.7
+Non-BRTS,64-D,Warje Malwadi To Hadapsar Gadital,20
+Non-BRTS,64-U,Hadapsar Gadital To Warje Malwadi,20
+Non-BRTS,65-D,Maharashtra Housing Board Samtanagar To Upper Depot,16.5
+Non-BRTS,65-U,Upper Depot To Maharashtra Housing Board Samtanagar,16.5
+Non-BRTS,66-D,Agalambegaon To Marketyard,29.1
+Non-BRTS,66-U,Marketyard To Agalambegaon,29.1
+BRTS,67-D,Kharadi Gaon To Swargate,17.2
+BRTS,67-U,Swargate To Kharadi Gaon,17.2
+Non-BRTS,68A-D,Swargate To Kumbare Park,10
+Non-BRTS,68A-U,Kumbare Park To Swargate,10
+Non-BRTS,68P-D,Swargate To Kothrud Depot,9.4
+Non-BRTS,68P-U,Kothrud Depot To Swargate,9.4
+Non-BRTS,68S-D,Marketyard To Sutardara,12.7
+Non-BRTS,68S-U,Sutardara To Marketyard,12.7
+Non-BRTS,69-D,Ghotawadegaon To Marketyard,31.3
+Non-BRTS,69-U,Marketyard To Ghotawadegaon,31.3
+Non-BRTS,70-D,Sheregaon To Deccan Gymkhana,33.3
+Non-BRTS,70-U,Deccan Gymkhana To Sheregaon,33.3
+Non-BRTS,71-D,Sukhsagarnagar To Kothrud Depot,14.3
+Non-BRTS,71-U,Kothrud Depot To Sukhsagarnagar,14.3
+Non-BRTS,72-D,Kondhwagate To Upper Depot,20.9
+Non-BRTS,72-U,Upper Depot To Kondhwagate,20.9
+Non-BRTS,73-D,Kothrud Depot To Hadapsar Gadital,18.7
+Non-BRTS,73-U,Hadapsar Gadital To Kothrud Depot,18.7
+Non-BRTS,75-D,Vidyanagar To Deccan Gymkhana,13.5
+Non-BRTS,75-U,Deccan Gymkhana To Vidyanagar,13.5
+Non-BRTS,76-D,Marketyard To Kumbare Park,11.8
+Non-BRTS,76-U,Kumbare Park To Marketyard,11.8
+Non-BRTS,77-R,Warje Malwadi To Warje Malwadi,24.5
+Non-BRTS,78-D,Kondhwagate To Marketyard,19.1
+Non-BRTS,78-U,Marketyard To Kondhwagate,19.1
+Non-BRTS,79-D,Mugawade To Deccan Gymkhana,29.9
+Non-BRTS,79-U,Deccan Gymkhana To Mugawade,29.1
+Non-BRTS,7A-D,Uruli Kanchan To Hadapsar Gadital,20.8
+Non-BRTS,7A-U,Hadapsar Gadital To Uruli Kanchan,20.8
+Non-BRTS,7-D,Uruli Kanchan To Sarasbaug,31.5
+Non-BRTS,7-U,Sarasbaug To Uruli Kanchan,31.5
+Non-BRTS,80A-D,Aditya Garden City To Ma Na Pa,12.8
+Non-BRTS,80A-U,Ma Na Pa To Aditya Garden City,12.8
+Non-BRTS,80-D,Cipla Center To Ma Na Pa,9.4
+Non-BRTS,80-U,Ma Na Pa To Cipla Center,9.4
+Non-BRTS,81-D,Pune Station To Kumbare Park,12.9
+Non-BRTS,81-U,Kumbare Park To Pune Station,12.9
+Non-BRTS,82A-D,Ma Na Pa To Warje Malwadi,9.9
+Non-BRTS,82A-U,Warje Malwadi To Ma Na Pa,9.9
+Non-BRTS,82-R,Kondhwagate To Kondhwagate,30.8
+Non-BRTS,84A-D,Kondhur Phata To Deccan Gymkhana,37.4
+Non-BRTS,84A-U,Deccan Gymkhana To Kondhur Phata,37.4
+Non-BRTS,84-D,Sangrun To Deccan Gymkhana,28.4
+Non-BRTS,84-U,Deccan Gymkhana To Sangrun,28.4
+Non-BRTS,85-D,Ahiregaon To Ma Na Pa,20.8
+Non-BRTS,85-U,Ma Na Pa To Ahiregaon,20.8
+Non-BRTS,86-R,Kothrud Depot To Kothrud Depot,16.9
+Non-BRTS,87A-D,Sutarwadi Pashan To Deccan Gymkhana,15.5
+Non-BRTS,87A-U,Deccan Gymkhana To Sutarwadi Pashan,15.5
+Non-BRTS,87B-D,Sutarwadi Pashan To Mandai,10.8
+Non-BRTS,87B-U,Mandai To Sutarwadi Pashan,10.8
+Non-BRTS,87-D,Balewadi Mhalunge Phata To Deccan Gymkhana,12
+Non-BRTS,87-U,Deccan Gymkhana To Balewadi Mhalunge Phata,12
+Non-BRTS,88-D,Medi Point To Upper Depot,16.8
+Non-BRTS,88-U,Upper Depot To Medi Point,16.8
+Non-BRTS,89-D,Niljyoti To Swargate,7.5
+Non-BRTS,89-U,Swargate To Niljyoti,7.5
+Non-BRTS,8-D,Mhatobachi Alandi To Hadapsar Gadital,19
+Non-BRTS,8-U,Hadapsar Gadital To Mhatobachi Alandi,19
+Non-BRTS,90-D,Gokhalenager To Swargate,7.3
+Non-BRTS,90P-D,Pandavnagar Senapati Bapat Road To Swargate,9
+Non-BRTS,90P-U,Swargate To Pandavnagar Senapati Bapat Road,9
+Non-BRTS,90-U,Swargate To Gokhalenager,7.3
+Non-BRTS,91-D,Ishanyanagari To Ma Na Pa,9
+Non-BRTS,91-U,Ma Na Pa To Ishanyanagari,9
+Non-BRTS,92-D,Pune Station To Gujrat Colony,9.5
+Non-BRTS,92-U,Gujrat Colony To Pune Station,9.5
+Non-BRTS,93-D,Pimplenilakh To Deccan Gymkhana,12.6
+Non-BRTS,93-U,Deccan Gymkhana To Pimplenilakh,12.6
+BRTS,94A-D,Vadgaonsheri To Kumbre park,19.1
+BRTS,94A-U,Kumbre park To Vadgaonsheri,19.1
+Non-BRTS,94-D,Pune Station To Kothrud Depot,11.4
+Non-BRTS,94-U,Kothrud Depot To Pune Station,11.4
+Non-BRTS,95A-D,Vasantdada Putala Sangvi To Gujrat Colony,14.5
+Non-BRTS,95A-U,Gujrat Colony To Vasantdada Putala Sangvi,14.5
+Non-BRTS,95-D,Pimplegurav To Kothrud Depot,21.1
+Non-BRTS,95-U,Kothrud Depot To Pimplegurav,21.1
+Non-BRTS,96-D,Gharkul Vasahat Warje To Pimplegurav,23.3
+Non-BRTS,96-U,Pimplegurav To Gharkul Vasahat Warje,23.3
+Non-BRTS,97-D,Sahkarnagar To Warje Malwadi,12.5
+Non-BRTS,97-U,Warje Malwadi To Sahkarnagar,12.5
+Non-BRTS,9-D,Uruli Railway Station To Hadapsar Gadital,27.1
+Non-BRTS,9-U,Hadapsar Gadital To Uruli Railway Station,27.1
+Non-BRTS,VJR1-D,Dhayari Maruti Mandir To Hadapsar Gadital,21.7
+Non-BRTS,VJR1-U,Hadapsar Gadital To Dhayari Maruti Mandir,21.7
+BRTS,VJR2-D,Kesnand Phata Wagholi To Warje Malwadi,29.4
+BRTS,VJR2-U,Warje Malwadi To Kesnand Phata Wagholi,29.4
+Non-BRTS,VJR3-D,Hadapsar Gadital To Kothrud Depot,17.9
+Non-BRTS,VJR3-U,Kothrud Depot To Hadapsar Gadital,17.9
+BRTS,VJR4-D,Vishrantwadi To Kothrud Depot,15.9
+BRTS,VJR4-U,Kothrud Depot To Vishrantwadi,15.9
+BRTS,VJR5-D,Mukai Chowk To Ma Na Pa,20.6
+BRTS,VJR5-U,Ma Na Pa To Mukai Chowk,20.6
+BRTS,VJR6-D,Hinjawadi - Maan Phase 3 To Bhosari,24
+BRTS,VJR6-U,Bhosari To Hinjawadi - Maan Phase 3,24
